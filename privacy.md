@@ -1,4 +1,4 @@
-  Privacy Policy body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding:1em; } **Privacy Policy**
+
 
 Horizon built the Rubicks Cube - 3d Simulator app as a Free app. This SERVICE is provided by Horizon at no cost and is intended for use as is.
 
