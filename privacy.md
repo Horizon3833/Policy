@@ -1,5 +1,3 @@
-
-
 Horizon built the Rubicks Cube - 3d Simulator app as a Free app. This SERVICE is provided by Horizon at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
@@ -49,7 +47,7 @@ This Service may contain links to other sites. If you click on a third-party lin
 
 **Children’s Privacy**
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+As mentioned above, I don't store/take data from anybody, therefore this is not harmful to any childer under 13 years of age
 
 **Changes to This Privacy Policy**
 
